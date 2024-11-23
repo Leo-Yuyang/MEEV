@@ -2,12 +2,6 @@
 
 This repository is the PyTorch implementation of [MEEV-LN].
 
-[MEEV-LN: Multi-Task Evaluation Framework for Zero-Shot Vision-and-Language Navigation]
-</br>
-Haoze Zhao, 
-Liang Ma,
-Yuyang Liu
-
 
 --------
 
