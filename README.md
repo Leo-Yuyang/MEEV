@@ -1,6 +1,6 @@
-# MEEV-LN:
+# MEFV-LN:
 
-This repository is the PyTorch implementation of [MEEV-LN].
+This repository is the PyTorch implementation of [MEFV-LN].
 
 
 --------
@@ -8,7 +8,7 @@ This repository is the PyTorch implementation of [MEEV-LN].
 
 
 ## Overview
-MEEV-LN: provides four tasks: 1) goal-conditioned navigation given a specific object category (e.g., "fork"); 2) goal-conditioned navigation given simple instructions (e.g., "Search for and move towards a tennis ball"); 3) step-by-step instruction following; 4) finding abstract object based on high-level instruction (e.g., "I am thirsty"). The earlier version of our simulator covers three high-quality scenes: cafe, restaurant, and nursing house.
+MEFV-LN: provides four tasks: 1) goal-conditioned navigation given a specific object category (e.g., "fork"); 2) goal-conditioned navigation given simple instructions (e.g., "Search for and move towards a tennis ball"); 3) step-by-step instruction following; 4) finding abstract object based on high-level instruction (e.g., "I am thirsty"). The earlier version of our simulator covers three high-quality scenes: cafe, restaurant, and nursing house.
 
 ![scene](./docs/scenes.png)
 
@@ -24,7 +24,7 @@ MEEV-LN: provides four tasks: 1) goal-conditioned navigation given a specific ob
 ## Setup
 Clone the repository and install other requirements:
 ```
-git clone https://github.com/Leo-Yuyang/MEEV-LN:.git
-cd MEEV-LN:/
+git clone https://github.com/Leo-Yuyang/MEFV-LN:.git
+cd MEFV-LN:/
 pip install -r requirements.txt
 ```
