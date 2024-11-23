@@ -1,7 +1,6 @@
 # MEFV-LN:
 
-This repository is the PyTorch implementation of [MEFV-LN].
-
+This GitHub repository is for the MBZUAI AI701 course, implementation of [MEFV-LN].
 
 --------
 
